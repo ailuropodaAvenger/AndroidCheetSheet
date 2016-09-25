@@ -6,7 +6,7 @@ most used fonts -> Myrid pro, Myrid pro semi bold , nato, roboto
 Typeface font, fontBold; </br>
 TextView viewCount ;
 
-font = Typeface.createFromAsset(activity.getAssets(), "fonts/Myriad Pro Regular.ttf");
+font = Typeface.createFromAsset(activity.getAssets(), "fonts/Myriad Pro Regular.ttf"); </br>
 fontBold = Typeface.createFromAsset(activity.getAssets(), "fonts/Myriad Pro Semibold.ttf");
 
 viewCount.setTypeface(font); </br>
