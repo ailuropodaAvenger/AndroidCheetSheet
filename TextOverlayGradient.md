@@ -48,4 +48,18 @@
             android:startColor="@color/black_semi_transparent"/>
         <corners android:radius="0dp" />
     </shape>
+
+//Or 
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle" >
+
+            <gradient
+                android:startColor="#13000000"
+                android:centerColor="#a6000000"
+                android:endColor="#FF000000"
+                android:angle="270"
+                android:dither="true" />
+
+            <corners android:radius="0dp" />
+        </shape>
 ```
