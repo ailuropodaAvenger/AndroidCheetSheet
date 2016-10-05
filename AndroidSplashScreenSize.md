@@ -1,0 +1,45 @@
+For android :
+ - LDPI:
+    - Portrait: 200x320px
+    - Landscape: 320x200px
+ - MDPI:
+    - Portrait: 320x480px
+    - Landscape: 480x320px
+ - HDPI:
+    - Portrait: 480x800px
+    - Landscape: 800x480px
+ - XHDPI:
+    - Portrait: 720px1280px
+    - Landscape: 1280x720px
+ - XXHDPI
+    - Portrait: 960x1600px
+    - Landscape: 1600x960px
+ - XXXHDPI 
+    - Portrait: 1280x1920px
+    - Landscape: 1920x1280px
+
+iOS :
+
+ - Tablet (iPad)
+   - Non-Retina (1x)
+     - Portrait: 768x1024px
+     - Landscape: 1024x768px
+   - Retina (2x)
+     - Portrait: 1536x2048px
+     - Landscape: 2048x1536px
+ - Handheld (iPhone, iPod)
+   - Non-Retina (1x)
+     - Portrait: 320x480px
+     - Landscape: 480x320px
+   - Retina (2x)
+     - Portrait: 640x960px
+     - Landscape: 960x640px
+ - iPhone 5 Retina (2x)
+   - Portrait: 640x1136px
+   - Landscape: 1136x640px
+ - iPhone 6 (2x)
+   - Portrait: 750x1334px
+   - Landscape: 1334x750px
+ - iPhone 6 Plus (3x)
+   - Portrait: 1242x2208px
+   - Landscape: 2208x1242px
